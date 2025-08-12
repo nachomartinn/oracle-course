@@ -1,9 +1,9 @@
 # oracle-course
-# Portfolio del curso de Oracle, que contiene los proyectos realizados en el curso.
+<h1>Portfolio del curso de Oracle, que contiene los proyectos realizados en el curso.</h1> 
 
 Ingresa al siguiente link para visualizar todos los proyectos del repositorio --> https://nachomartinn.github.io/oracle-course/
 
-## Herramientas utilizadas:
+# Herramientas utilizadas:
 
 * JavaScript
 
@@ -11,8 +11,8 @@ Ingresa al siguiente link para visualizar todos los proyectos del repositorio --
 
 * CSS
 
-## Hecho por:
+# Hecho por:
 
-###Ignacio Martin
+#Ignacio Martin
 
 ### Linkedin: https://www.linkedin.com/in/ignaciomartin1
